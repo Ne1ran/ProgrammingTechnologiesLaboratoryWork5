@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+D:\University\Programs\ProgrammingTechnologiesLaboratoryWork5\MyForm.h(484,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\University\Programs\ProgrammingTechnologiesLaboratoryWork5\MyForm.h(484,63): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\University\Programs\ProgrammingTechnologiesLaboratoryWork5\MyForm.h(484,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+D:\University\Programs\ProgrammingTechnologiesLaboratoryWork5\MyForm.h(484,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyThread.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ProgrammingTechnologiesLaboratoryWork5.vcxproj -> D:\University\Programs\ProgrammingTechnologiesLaboratoryWork5\x64\Debug\ProgrammingTechnologiesLaboratoryWork5.exe
